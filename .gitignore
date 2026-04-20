@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.next
+.vercel
+dist
+coverage
+.env
+.env.local
+backend/bin
+frontend/.turbo
